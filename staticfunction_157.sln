@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction_157", "stati
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrstaticfunction", "mbrstaticfunction\mbrstaticfunction.vcxproj", "{CD1042AB-8255-4979-89A9-53FADFAA5B98}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chainfunction", "chainfunction\chainfunction.vcxproj", "{6D17E0A8-3DDD-46AE-883D-549A55620DE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -41,6 +43,18 @@ Global
 		{CD1042AB-8255-4979-89A9-53FADFAA5B98}.Release|x64.Build.0 = Release|x64
 		{CD1042AB-8255-4979-89A9-53FADFAA5B98}.Release|x86.ActiveCfg = Release|Win32
 		{CD1042AB-8255-4979-89A9-53FADFAA5B98}.Release|x86.Build.0 = Release|Win32
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Debug|arm64.ActiveCfg = Debug|arm64
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Debug|arm64.Build.0 = Debug|arm64
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Debug|x64.ActiveCfg = Debug|x64
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Debug|x64.Build.0 = Debug|x64
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Debug|x86.Build.0 = Debug|Win32
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Release|arm64.ActiveCfg = Release|arm64
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Release|arm64.Build.0 = Release|arm64
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Release|x64.ActiveCfg = Release|x64
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Release|x64.Build.0 = Release|x64
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Release|x86.ActiveCfg = Release|Win32
+		{6D17E0A8-3DDD-46AE-883D-549A55620DE9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
